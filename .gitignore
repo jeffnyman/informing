@@ -1,6 +1,6 @@
 # Project Specific
-Tangled/*
-!Tangled/.gitkeep
+inweb/Tangled/*
+!inweb/Tangled/.gitkeep
 platform-settings.mk
 
 # OS generated files
