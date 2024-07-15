@@ -1,0 +1,7 @@
+! Tests for Inweb
+
+-cases 'inweb/Tests/Test Cases'
+
+-recipe
+show: $CASE
+-end

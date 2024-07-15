@@ -3,6 +3,10 @@ inweb/Tangled/*
 !inweb/Tangled/.gitkeep
 intest/Tangled/*
 !intest/Tangled/.gitkeep
+intest/Workspace/*
+!intest/Workspace/T0
+intest/Workspace/T0/*
+!intest/Workspace/T0/.gitkeep
 platform-settings.mk
 
 # OS generated files
