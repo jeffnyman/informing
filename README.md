@@ -1,4 +1,4 @@
-# Informed
+# Informing
 
 _Simplified Distribution of the Inform Ecosystem_
 

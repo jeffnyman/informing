@@ -1,0 +1,17 @@
+This repository provides redistributable materials related to Inform to
+facilitate its use. Inform itself is distributed under its own license,
+and the terms and conditions of that license apply to the Inform software
+and any associated materials provided here.
+
+When I say "Inform" here that should be read as understanding Inform 6,
+Inform 7, and any versions subsequent, along with supporting tools in the
+Inform ecosystem, such as Inweb and Intest.
+
+In terms of licensing for what this repository _does_ contain, all I'm
+doing here is providing an understanding that this repository can be copied,
+distributed, and so on as you see fit. But the contents of this repository
+that are related to Inform itself still hold.
+
+So let's be clear on what this means. The copyright for all things Inform
+is held by Graham Nelson. On 28 April 2022, the Inform ecosystem was placed
+under the [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0).
