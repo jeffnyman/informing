@@ -4,6 +4,11 @@ _Simplified Distribution of the Inform Ecosystem_
 
 This is not a project you clone so much as you simply download and then use as if it was something you installed. More specifically, you would not want to put any of your specific projects within this project structure. The whole point of this repository is to get you a working installation of the primary Inform ecosystem of tools but without having to go through the process of building all of it from source.
 
+Since the development is currently in flux, the following are the snapshots captured in this repository:
+
+- [Inweb](https://github.com/ganelson/inweb): 7.2.1-beta+1B65 'Escape to Danger' (13 May 2024)
+- [Intest](https://github.com/ganelson/intest): 2.2.0-beta+1A60 'The Remembering' (21 May 2024)
+
 ## Inweb
 
 When you have this project on your machine, you will want to get two files in place for your particular operating system. The operating system specific files are in the `_os-specific` directory. You will want to copy the appropriate Inweb program and the appropriate platform makefile for your operating system.
