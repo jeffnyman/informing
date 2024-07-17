@@ -4,6 +4,8 @@ _Simplified Distribution of the Inform Ecosystem_
 
 This is not a project you clone so much as you simply download and then use as if it was something you installed. More specifically, you would not want to put any of your specific projects within this project structure. The whole point of this repository is to get you a working installation of the primary Inform ecosystem of tools but without having to go through the process of building all of it from source.
 
+Works on ![win](_resources/win_sm.png) Windows, ![macOS](_resources/apple_sm.png) macOS and ![linux](_resources/linux_sm.png) Linux.
+
 Since the development is currently in flux, the following are the snapshots captured in this repository:
 
 - [Inweb](https://github.com/ganelson/inweb): 7.2.1-beta+1B65 'Escape to Danger' (13 May 2024)
