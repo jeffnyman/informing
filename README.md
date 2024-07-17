@@ -64,7 +64,7 @@ When you have this project on your machine, you will want to get the executable 
 To see that it's running, you can try running a test on Inweb:
 
 ```shell
-intest inweb empy
+intest inweb empty
 ```
 
 You should see the following result:
