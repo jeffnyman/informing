@@ -8,6 +8,7 @@ Since the development is currently in flux, the following are the snapshots capt
 
 - [Inweb](https://github.com/ganelson/inweb): 7.2.1-beta+1B65 'Escape to Danger' (13 May 2024)
 - [Intest](https://github.com/ganelson/intest): 2.2.0-beta+1A60 'The Remembering' (21 May 2024)
+- [Inform](https://github.com/ganelson/inform): 10.2.0-beta+6X64 'Krypton' (21 May 2024)
 
 ## Inweb
 

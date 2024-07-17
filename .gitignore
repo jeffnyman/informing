@@ -1,4 +1,6 @@
 # Project Specific
+inform/Tangled/*
+!inform/Tangled/.gitkeep
 inweb/Tangled/*
 !inweb/Tangled/.gitkeep
 intest/Tangled/*
